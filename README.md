@@ -1,3 +1,3 @@
 # pytry
 
-Hello world! This is my first git-hub file :-) 
+Simple python code to become more familiar with the language
