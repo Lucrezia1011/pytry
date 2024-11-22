@@ -1,3 +1,3 @@
 # pytry
 
-Simple python code to become more familiar with the language
+Simple python code to plot fractals
